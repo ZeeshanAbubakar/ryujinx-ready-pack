@@ -163,6 +163,6 @@ running.
 
 ---
 
-*Ryujinx · Updated 2026-11-16 · Shared under the MIT License*
+*Ryujinx · Updated 2026-11-17 · Shared under the MIT License*
 
-<!-- updated 2026-11-16 -->
+<!-- updated 2026-11-17 -->
