@@ -163,4 +163,4 @@ running.
 
 ---
 
-*Ryujinx · Updated 2026-11-23 · Shared under the MIT License*
+*Ryujinx · Updated 2026-11-24 · Shared under the MIT License*
